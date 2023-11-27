@@ -46,6 +46,7 @@ useEffect(() => {
 
 const closeApp = () => {
   window.close();
+  
 }
 
   return (
