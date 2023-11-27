@@ -22,7 +22,7 @@ const App = () => {
     setTimer(
       setInterval(() => {
         setTime((time) => time - 1);
-      }, 100)
+      }, 1000)
     )};
 
 const stopTimer = () => {
@@ -46,7 +46,6 @@ useEffect(() => {
 
 const closeApp = () => {
   window.close();
-  
 }
 
   return (
