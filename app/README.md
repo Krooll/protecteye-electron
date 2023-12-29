@@ -1,0 +1,1 @@
+An application reminding us to take care of our eyes. Upon pressing the start button, the application counts down 20 minutes of work. When the time is up, the program notifies and starts a 5-minute break from the monitor. The application operates in a loop.
